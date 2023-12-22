@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/tweeter__byrd" target="blank"><img src="https://img.shields.io/twitter/follow/tweeter__byrd?logo=twitter&style=for-the-badge" alt="tweeter__byrd" /></a> </p>
 
-- 🔭 I'm currently enrolled in BloomTech's FullStack Web Development Course [https://www.bloomtech.com/](https://www.bloomtech.com/)
+- 🔭 I'm currently enrolled in [BloomTech's FullStack Web Development Course](https://www.bloomtech.com/)
 
-- 🌱 I’m currently learning **Advanced React and Advanced Web Applications**
+- 🌱 I’ve finished all front-end and back-end courses and am now in the LABS portion of the course
 
 - 💼 My previous work experience includes **Sales and Product Management**
 
