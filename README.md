@@ -7,9 +7,9 @@
 <p>I'm Justin Byrd, a fullstack web developer with a unique blend of technical and product ownership experience. I transitioned from a successful 3-year stint as a Product Owner to a Software Engineer passionate about crafting user-centric web solutions.</p>
 
 <h2>💻 Skills:</h2>
-<li>Frontend: HTML, CSS, JavaScript, React, Next.js, Typescript</li>
-<li>Backend: Node.js, Express.js</li>
-<li>Database: SQL</li>
+<li>Frontend: HTML, CSS, JavaScript, React, Next.js</li>
+<li>Backend: Node.js, Express.js, Knex</li>
+<li>Database: SQLite, Postgres</li>
 <li>Tools: Git, npm</li>
 
 <h2>🙋🏻‍♂️ Why Me:</h2>
